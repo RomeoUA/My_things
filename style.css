@@ -1,0 +1,18 @@
+img {
+    width: 250px;
+}
+.describe {
+    font-size: 20px;
+    font-weight: 600;
+    color: orangered;
+}
+h1 {
+    font-size: 34px;
+    font-weight: 800;
+    color: red;
+}
+.put {
+    font-size: 25px;
+    font-weight: 600;
+    color: darkgreen;
+}
